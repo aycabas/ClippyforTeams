@@ -1,4 +1,4 @@
-# Microsoft Teams Conversational Bot with Teams AI Library: Clippy 📎
+# 📎 Clippy for Teams: Conversational Teams Bot with Teams AI Library
 
 This is a conversational bot for Microsoft Teams that impersonates Clippy that helps people answer questions about Microsoft products. Clippy loves all Microsoft products and is always ready to help users make the most of them. In the project, the bot uses the `gpt-35-turbo-16k` model to chat with Teams users and respond in a polite and respectful manner, staying within the scope of the conversation.
 
