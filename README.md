@@ -4,7 +4,7 @@ This is a conversational bot for Microsoft Teams that impersonates Clippy that h
 
 Clippy for Teams bot is built using the Teams Toolkit and Teams AI library, which provides the capabilities to build AI-based Teams applications. 
 
-![Doodle for Teams AI library](doodle img)
+![Doodle for Teams AI library](https://github.com/aycabas/ClippyforTeams/assets/36196437/e82be38f-1a1a-4d87-859d-29475b50557e)
 
 To learn more about the Teams AI library and build Clippy from scratfch, watch **Clippy for Teams** video in the Doodle to Code series on YouTube:
 
