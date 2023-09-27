@@ -6,9 +6,7 @@ Clippy for Teams bot is built using the Teams Toolkit and Teams AI library, whic
 
 ![Doodle for Teams AI library](https://github.com/aycabas/ClippyforTeams/assets/36196437/e82be38f-1a1a-4d87-859d-29475b50557e)
 
-To learn more about the Teams AI library and build Clippy from scratfch, watch **Clippy for Teams** video in the Doodle to Code series on YouTube:
-
-[![Clippy for Teams on YouTube](img)](video)
+To learn more about the Teams AI library and build Clippy from scratfch, watch **[Clippy for Teams]()** video in the Doodle to Code series on YouTube.
 
 ## Get started with the Clippy for Teams
 
